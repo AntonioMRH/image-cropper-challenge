@@ -31,7 +31,7 @@ Before using this tool, make sure that you have installed the following:
     ```sh
     git clone https://github.com/AntonioMRH/image-cropper-challenge.git
     ```
-2. Access your local copy of the repo and install packages (I'm using PNPM but feel free to use you preferred package manager)
+2. Access your local copy of the repo and install packages (I'm using PNPM, however, feel free to use you preferred package manager of choice)
     ```sh
     pnpm install
     ```
