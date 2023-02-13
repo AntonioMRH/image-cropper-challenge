@@ -60,7 +60,7 @@ Before using this tool, make sure that you have installed the following:
 
 Antonio Moreno - amrh07@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/AntonioMRH/image-cropper-challenge)
+Project Link: [https://github.com/AntonioMRH/image-cropper-challenge](https://github.com/AntonioMRH/image-cropper-challenge)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
