@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.reactEasyCrop_Container {
+	width: 113px !important;
+	height: 113px !important;
+	border-radius: 9999px !important;
+	border: 1px solid transparent !important;
+}
+
+.reactEasyCrop_CropArea {
+	width: 114px !important;
+	height: 114px !important;
+}
+
+.slider {
+	-webkit-appearance: none;
+	border-radius: 1px;
+	height: 2px;
+	width: 100%;
+	background: #b9d1ff;
+	background-image: linear-gradient(#3f80ff, #3f80ff);
+	background-repeat: no-repeat;
+	outline: none;
+}
+
+.slider::-webkit-slider-thumb {
+	-webkit-appearance: none;
+	appearance: none;
+	width: 12px;
+	height: 12px;
+	border-radius: 50%;
+	background: #3f80ff;
+	cursor: pointer;
+}
+
+.slider::-moz-range-thumb {
+	width: 12px;
+	height: 12px;
+	border-radius: 50%;
+	background: #3f80ff;
+	cursor: pointer;
+}
