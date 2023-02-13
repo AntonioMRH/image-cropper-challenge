@@ -45,14 +45,6 @@ Before using this tool, make sure that you have installed the following:
     pnpm test
     ```
 
-<!-- USAGE EXAMPLES -->
-
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
 ## Goals
 
 -   [x] It should allow uploading an image by dragging it into the dashed area or clicking on it.
